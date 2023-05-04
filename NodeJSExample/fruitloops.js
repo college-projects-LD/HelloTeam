@@ -1,5 +1,5 @@
 
-const fruits = ["Apple", "Banana", "Watermelon", "Papaya"];
+const fruit = ["Apple", "Banana", "Watermelon", "Papaya"];
 
 fruits.forEach((item, index) => {
     console.log(item, index);
