@@ -1,1 +1,3 @@
-const helloTeam = ["matthew", "Brian", "Pun"]
+
+const helloTeam = ["matthew", "Brian", "Pun", "Grant"]
+
